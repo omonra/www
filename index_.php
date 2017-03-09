@@ -1,4 +1,4 @@
-<h1>aaaf</h1>
+<h1>222</h1>
 <?php
 phpinfo ();
 ?>
