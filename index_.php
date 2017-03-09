@@ -1,4 +1,4 @@
-<h1>222</h1>
+<h1>dev</h1>
 <?php
 phpinfo ();
 ?>
